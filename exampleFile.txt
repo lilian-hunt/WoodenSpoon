@@ -1,0 +1,7 @@
+C. Capybara d. A. Aardvark
+C. Capybara d. B. Badger
+C. Capybara d. F. Flamingo
+A. Aardvark d. G. Goat
+F. Flamingo d. Bye
+E. Echidna d. D. Dolphin
+A. Aardvark d. E. Echidna
